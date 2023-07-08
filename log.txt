@@ -1,0 +1,28 @@
+----------------------------------
+El seno de Pi es igual a= 1.2246467991473532e-16
+Fecha y hora de operacion
+2023-07-06 21:53:55.243262
+----------------------------------
+El seno de Pi es igual a= 1.2246467991473532e-16
+Fecha y hora de operacion
+2023-07-06 21:54:03.940065
+----------------------------------
+El coseno de Pi es igual a= -1.0
+Fecha y hora de operacion
+2023-07-06 21:56:45.031821
+----------------------------------
+La tangente de Pi es igual a= -1.2246467991473532e-16
+Fecha y hora de operacion:
+2023-07-06 21:57:16.855181
+----------------------------------
+El seno de Pi es igual a= 1.2246467991473532e-16
+Fecha y hora de operacion:
+2023-07-06 22:13:24.216203
+----------------------------------
+El coseno de Pi es igual a= -1.0
+Fecha y hora de operacion:
+2023-07-06 22:13:55.125488
+----------------------------------
+La tangente de Pi es igual a= -1.2246467991473532e-16
+Fecha y hora de operacion:
+2023-07-06 22:13:55.125488
