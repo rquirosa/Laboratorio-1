@@ -23,9 +23,9 @@ async1=async_process()
 if __name__ == "__main__":
     start_time = time.time()
 
-    #async_process()
+    async_process()
 
-    asyncio.run(async1)
+    #asyncio.run(async1)
 
     print()
     duration = time.time() - start_time
